@@ -1,0 +1,29 @@
+Cargo.lock
+  s_4f2dfb68f88aa4::t_07c3db522cbd3e 3334
+  s_4f2dfb68f88aa4::t_96f6c89d39974c 3013,3015
+crates/tlog_cosignature/Cargo.toml
+  s_4f2dfb68f88aa4::t_8f3c3b591f5c6f 18
+crates/tlog_cosignature/src/subtree_v1.rs
+  s_4f2dfb68f88aa4::t_1c073a4cdfba3f 84,88-90,428-458,819-824,831-845
+  s_4f2dfb68f88aa4::t_4c0c0f5736cebc 825-830
+crates/signed_note_wasm/Cargo.toml
+  s_4f2dfb68f88aa4::t_057cd90b3e0c58 19,23
+crates/signed_note_wasm/src/lib.rs
+  s_4f2dfb68f88aa4::t_1dcdf6da95feba 121-142,197-213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "48ed559d9f790fe3529ff52f5c90f0d49355b8ac",
+  "prompts": {},
+  "sessions": {
+    "s_4f2dfb68f88aa4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec8c58d8affey29gMSIEt58DrJ",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ben Yang <byang@cloudflare.com>"
+    }
+  }
+}
