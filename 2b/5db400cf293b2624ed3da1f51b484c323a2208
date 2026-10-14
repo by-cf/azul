@@ -1,0 +1,21 @@
+Cargo.lock
+  s_4f2dfb68f88aa4::t_807c39d21c1c34 612,644,1094,1573,1731,1832,1870,2713,2995,3009,3071,3309,3322,3332,3348,3360,3372,3383,3394,4228,4257
+Cargo.toml
+  s_4f2dfb68f88aa4::t_129001c5274cf0 66,117,152-153,155-161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2b5db400cf293b2624ed3da1f51b484c323a2208",
+  "prompts": {},
+  "sessions": {
+    "s_4f2dfb68f88aa4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec8c58d8affey29gMSIEt58DrJ",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ben Yang <byang@cloudflare.com>"
+    }
+  }
+}
