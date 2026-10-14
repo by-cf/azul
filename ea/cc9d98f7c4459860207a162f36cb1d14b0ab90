@@ -1,0 +1,19 @@
+crates/tlog_cosignature/src/subtree_v1.rs
+  s_4f2dfb68f88aa4::t_4c0c0f5736cebc 825-830
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "eacc9d98f7c4459860207a162f36cb1d14b0ab90",
+  "prompts": {},
+  "sessions": {
+    "s_4f2dfb68f88aa4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec8c58d8affey29gMSIEt58DrJ",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ben Yang <byang@cloudflare.com>"
+    }
+  }
+}
